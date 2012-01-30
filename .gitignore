@@ -1,2 +1,8 @@
 .DS_Store
 .classpath
+.idea/
+.project
+.settings/
+e-schools-grailsPlugins.iml
+e-schools.iml
+target/
